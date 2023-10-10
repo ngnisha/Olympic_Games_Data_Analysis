@@ -1,7 +1,7 @@
 # Olympic_Games_Data_Analysis
 Detailed insight of olympic games on sql server 
 Olympic Games Data Analysis
-<b>
+<b><br><br>
 Overview<b><br>
 This project conducts a comprehensive analysis of Olympic Games data using two primary datasets: "athlete_events" and "noc_regions." The goal of this analysis is to gain insights into the historical performance of athletes and countries in the Olympics, as well as to explore trends and patterns in the data.<br><br>
 
