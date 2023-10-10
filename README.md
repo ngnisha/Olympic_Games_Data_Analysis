@@ -10,9 +10,9 @@ Key Datasets<b><br>
 **noc_regions.csv:** <br> This dataset provides information about National Olympic Committees (NOCs), including their names, regions, and notes.
 
 Analysis Highlights<b><br>
-**Data Exploration:**  <br> We began by exploring the datasets to understand their structure, the available variables, and any missing or inconsistent data.
-Medal Analysis: <br>We analyzed the distribution of medals across different countries and events, identifying top-performing nations and athletes.
-Trend Analysis:<br> By visualizing trends over time, we explored changes in the Olympics' size, diversity, and competitive landscape.
+**Data Exploration:**  <br> We began by exploring the datasets to understand their structure, the available variables, and any missing or inconsistent data.<br>
+Medal Analysis: <br>We analyzed the distribution of medals across different countries and events, identifying top-performing nations and athletes.<br>
+Trend Analysis:<br> By visualizing trends over time, we explored changes in the Olympics' size, diversity, and competitive landscape.<br>
 Geographic Analysis: We examined the geographic distribution of medals and athlete origins, identifying countries that excel in specific sports.
 
 
